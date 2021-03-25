@@ -1,0 +1,88 @@
+.theme-bg-primary-darken {
+    background-color: #0a71c6;
+}
+
+.header-intro {
+    text-align: center;
+}
+
+.theme-bg-primary {
+    background-color: #41A4F5;
+}
+
+.pb-5,
+.py-5 {
+    padding-bottom: 3rem !important;
+}
+
+.mb-2,
+.my-2 {
+    margin-bottom: .5rem !important;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: circle;
+}
+
+ol,
+ul,
+dl {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.skills-icon-holder {
+    background: #41A4F5;
+    width: 80px;
+    height: 80px;
+    padding-top: 1.25rem;
+    top: -40px;
+    left: 50%;
+    margin-left: -40px;
+}
+
+.position-absolute {
+    position: absolute !important;
+}
+
+.d-inline-block {
+    display: inline-block !important;
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #F7F8FA;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #434E5E;
+}
+
+.skills-icon-holder {
+    background: #41A4F5;
+    width: 80px;
+    height: 80px;
+    padding-top: 1.25rem;
+    top: -40px;
+    left: 50%;
+    margin-left: -40px;
+}
+
+body {
+    background: #F7F8FA;
+}
